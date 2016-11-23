@@ -1,7 +1,7 @@
 # For use with SublimeText and Jetbrains IDE's like WebStorm.
 # The .gitignore file in .meteor already covers /meteor/local.
 
-
+node_modules/
 
 
 # Created by .ignore support plugin (hsz.mobi)
